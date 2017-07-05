@@ -56,7 +56,7 @@
 .emoji[src*="/assets/cf4c66d6a78fdb1a6a77dc434c7d5eb2.svg"]{ content: url(https://cdn.discordapp.com/emojis/280622317896204298.png); } /* tired_face->blobtired */
 .emoji[src*="/assets/597c2af9a2b16473aa5d80dc46f2e112.svg"]{ content: url(https://cdn.discordapp.com/emojis/286057088541655051.png); } /* stuck_out_tongue->blobtongue */
 .emoji[src*="/assets/eb3301ec88dae3fbc96c83bfe34dbdde.svg"]{ content: url(https://cdn.discordapp.com/emojis/280622734193459200.png); } /* stuck_out_tongue_winking_eye->blobtonguewink */
-.emoji[src*="/assets/17ce9728ad8efb8ffe2fa41f60c169be.svg"]{ content: url(https://cdn.discordapp.com/emojis/280619755004493825.png); } /* triump->blobtriump */
+.emoji[src*="/assets/17ce9728ad8efb8ffe2fa41f60c169be.svg"]{ content: url(https://cdn.discordapp.com/emojis/280619755004493825.png); } /* triumph->blobtriumph */
 .emoji[src*="/assets/76292b41a5fa5408d92f674ebf4b7326.svg"]{ content: url(https://cdn.discordapp.com/emojis/280622800161734656.png); } /* unamused->blobunamused */
 .emoji[src*="/assets/96b458e549758981dba74c32137c0784.svg"]{ content: url(https://cdn.discordapp.com/emojis/280622859410341888.png); } /* upside_down->blobupsidedown */
 .emoji[src*="/assets/593c4a3437fbb5b89fbb148f7b96424d.svg"]{ content: url(https://cdn.discordapp.com/emojis/301100937659809792.png); } /* wave->blobwavereverse -- should it be reverse or standard? */
@@ -80,3 +80,6 @@
 .emoji[src*="/assets/b2b6a3c4ecc6af020a67a160ea8a8bb8.svg"]{ content: url(https://cdn.discordapp.com/emojis/295713778589368330.png); } /* snake->googlesnake */
 .emoji[src*="/assets/36cb5886ae3accf96c962ef823176596.svg"]{ content: url(https://cdn.discordapp.com/emojis/294574987954749441.png); } /* turtle->googleturtle */
 .emoji[src*="/assets/6a850d8ed7c8f8b3e63329a2c136ff41.svg"]{ content: url(https://cdn.discordapp.com/emojis/287392451776479232.png); } /* whale->googlewhale */
+.emoji[src*="/assets/4f22736614151ae463b63a5a78aac9d9.svg"]{ content: url(https://cdn.discordapp.com/emojis/286055773031628800.png); } /* slight_smile->blobsmile */
+.emoji[src*="/assets/0f7bf0aae65b06ec5a342ae10c4b1856.svg"]{ content: url(https://cdn.discordapp.com/emojis/297208639947800576.png); } /* kiss->blobkiss */
+.emoji[src*="/assets/d1fa903a61500ee1c3d43d3751ceff8a.svg"]{ content: url(https://cdn.discordapp.com/emojis/297208639947800576.png); } /* kissing_closed_eyes->blobkiss */
