@@ -1,1 +1,12 @@
-.emoji[src*="/assets/f0835a46b501ae0a182874b003fdbb65.svg"]{ content: url(https://cdn.discordapp.com/emojis/286055938501378058.png); }
+/* blob.css
+replaces discord emojis with google blobs
+https://github.com/Noahkiq/blob-css*/
+.emoji[src*="/assets/f0835a46b501ae0a182874b003fdbb65.svg"]{ content: url(https://cdn.discordapp.com/emojis/286055938501378058.png); } /* smile -> blobsmiley */
+.emoji[src*="/assets/3b32193b9673582d2704e53ec1056b6e.svg"]{ content: url(https://cdn.discordapp.com/emojis/286054855447937024.png); } /* slight_frown -> blobfrown */
+.emoji[src*="/assets/53ef346458017da2062aca5c7955946b.svg"]{ content: url(https://cdn.discordapp.com/emojis/280622559458885633.png); } /* thinking -> blobthinking */
+.emoji[src*="/assets/f71a48ebe4ebb6c0fb771721248d7523.svg"]{ content: url(https://cdn.discordapp.com/emojis/288727736426692609.png); } /* frowining -> blobfrowning */
+.emoji[src*="/assets/b61c4e14e90e796e36f0d10792fcc505.svg"]{ content: url(https://cdn.discordapp.com/emojis/288727789241237504.png); } /* frowning2->blobfrowningbig */
+.emoji[src*="/assets/4e119a2ac01300de41aee4e941c8f714.svg"]{ content: url(https://cdn.discordapp.com/emojis/280619543666360320.png); } /* angel->blobangel */
+.emoji[src*="/assets/65bd38c1796f4959df4028fdf06aaf8f.svg"]{ content: url(https://cdn.discordapp.com/emojis/280619689510699008.png); } /* angry->blobangry */
+.emoji[src*="/assets/cae9e3b02af6e987442df2953de026fc.svg"]{ content: url(https://cdn.discordapp.com/emojis/296038390279831552.png); } /* joy->blobjoy */
+.emoji[src*="/assets/a2d0c0f7e2a7219cb5f9b951bba19437.svg"]{ content: url(https://cdn.discordapp.com/emojis/302132135899430923.png); } /* face_palm->blobfacepalm */
