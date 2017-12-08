@@ -146,11 +146,12 @@ URLS['kissing'] = URLS['kissing_heart']
 
 SIZE = 44
 
-for lst, filename in [
-    (SHEET_SMALL_LST, 'discord_emoji_small'),
-    (SHEET_LARGE_LST, 'discord_emoji_large'),
+for lst, filename, url in [
+    (SHEET_SMALL_LST, 'discord_emoji_small', 'https://discordapp.com/assets/4e51af83c4879cf313ad553bdc20dcf7.png'),
+    (SHEET_LARGE_LST, 'discord_emoji_large', 'https://discordapp.com/assets/f24711dae4f6d6b28335e866a93e9d9b.png'),
 ]:
-    sheet = Image.open(filename + '_orig.png')
+    print('Getting "{}"...'.format(url))
+    sheet = Image.open(BytesIO(requests.get(url).content))
     sheet.load()
     cols = sheet.width // SIZE
     rows = sheet.height // SIZE
