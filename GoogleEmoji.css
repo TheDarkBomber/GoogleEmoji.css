@@ -167,3 +167,12 @@
 .emoji[src*="/assets/a2a08068626af0af29b34d551373f0a7.svg"]{ content: url(https://emojipedia-us.s3.amazonaws.com/thumbs/72/google/56/older-woman_emoji-modifier-fitzpatrick-type-4_1f475-1f3fd_1f3fd.png); } /* older-woman skin3 */
 .emoji[src*="/assets/76abf8347657dae994ba85495e22d127.svg"]{ content: url(https://emojipedia-us.s3.amazonaws.com/thumbs/72/google/56/older-woman_emoji-modifier-fitzpatrick-type-5_1f475-1f3fe_1f3fe.png); } /* older-woman skin4 */
 .emoji[src*="/assets/ddc2d235e1a89704dd2888136ce02438.svg"]{ content: url(https://emojipedia-us.s3.amazonaws.com/thumbs/72/google/56/older-woman_emoji-modifier-fitzpatrick-type-6_1f475-1f3ff_1f3ff.png); } /* older-woman skin5 */
+
+/* Spritesheets */
+.spriteNormal-3BYqCK {
+	background-image: url(https://www.dropbox.com/s/3ylo31tryy1l0pe/discord_emoji_small.png?dl=1) !important;
+}
+
+.sprite-item[style*="/assets/f24711dae4f6d6b28335e866a93e9d9b.png"] {
+	background-image: url(https://www.dropbox.com/s/ax1vnz6kl9bi6kv/discord_emoji_large.png?dl=1) !important;
+}
