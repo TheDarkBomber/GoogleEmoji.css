@@ -1,3 +1,4 @@
+//META{"name":"Google Blob Emoji","description":"Replaces the standard Discord emotes with Google Emojis.","author":"Noahkiq, TeamSpen210","version":"1.0.1"}*//
 /* blob.css -- replaces discord emojis with google emojis -- grab the latest version @ https://github.com/Noahkiq/blob-css*/
 .emoji[src*="/assets/f0835a46b501ae0a182874b003fdbb65.svg"]{ content: url(https://cdn.discordapp.com/emojis/286056679479574528.png); } /* smile -> blobsmileopenmouth */
 .emoji[src*="/assets/3b32193b9673582d2704e53ec1056b6e.svg"]{ content: url(https://cdn.discordapp.com/emojis/286054855447937024.png); } /* slight_frown -> blobfrown */
